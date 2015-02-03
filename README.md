@@ -1,4 +1,4 @@
-# HTML5 v2.0
+# Janux
 <img src="https://raw.github.com/r4nd1/template-cpanel-janux/master/janux600.jpg" width="900">
 
 Bootstrap_Metro_Dashboard
